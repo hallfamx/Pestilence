@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:9930e4895bceae2e5bed528bb1b15efa8588f9d7dda68d1e6952d2e2c14db7ac
+size 163
+=======
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	]
+}
+>>>>>>> 3be00fb45e70b6591b6573abe4b768a506305487
